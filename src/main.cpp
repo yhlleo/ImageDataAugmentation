@@ -72,8 +72,8 @@ using namespace cv;
 //{
 //
 //	char *folder         = "E:\\GitHub\\ImageDataAugmentation\\data\\0.0_1_0";
-//  std::string savePath = "E:\\GitHub\\ImageDataAugmentation\\data\\0.0_1_1\\";
-//  _mkdir(savePath.c_str());
+// std::string savePath = "E:\\GitHub\\ImageDataAugmentation\\data\\0.0_1_1\\";
+// _mkdir(savePath.c_str());
 //
 //	FindFiles ff;
 //	std::vector<std::string> fileNames = ff.findFiles(folder);
