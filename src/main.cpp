@@ -70,8 +70,7 @@ using namespace cv;
 /************************************************************************/
 //void main()
 //{
-//
-//	char *folder         = "E:\\GitHub\\ImageDataAugmentation\\data\\0.0_1_0";
+// char *folder         = "E:\\GitHub\\ImageDataAugmentation\\data\\0.0_1_0";
 // std::string savePath = "E:\\GitHub\\ImageDataAugmentation\\data\\0.0_1_1\\";
 // _mkdir(savePath.c_str());
 //
