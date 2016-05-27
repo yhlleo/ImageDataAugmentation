@@ -1,5 +1,14 @@
+# ImageDataAugmentation
 
 工程源码GitHub: [yhlleo/ImageDataAugmentation](https://github.com/yhlleo/DataAugmentation)
+
+编译环境：
+
+ - CMake
+ - OpenCV
+ - Visual Studio 2010
+
+--------------------------------------------------------------
 
 在机器学习和深度学习中，通常使用为了增加数据（Data Augmentation）可以对数据进行例如一系列的旋转（rotate）、镜像（flip）等操作，本文将讲解如何求取旋转图像的最大内接矩形问题，这里的内接矩形，并不是数学上严格的内接概念，而是获得的矩形是不含如图 1所示的旋转导致的空白区域。
 
