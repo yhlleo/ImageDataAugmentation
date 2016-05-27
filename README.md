@@ -28,7 +28,7 @@
 
 [<center>
 <img src="http://img.blog.csdn.net/20160527111109367" width=60%></img>
-**图 3**</center>](http://img.blog.csdn.net/20160526223435853)
+**图 3**</center>](http://img.blog.csdn.net/20160527111109367)
 
 可以看出，两种情况的最大不同就是， 矩形边AB与坐标轴`col`相交的点是否位于绿色矩形框的内部，前面推导的结果对于位于绿色矩形框内部是成立的，对于位于外部的情形，可有如下分析：
 
