@@ -82,6 +82,9 @@ void DataAugment::imageRotate(
 	double theta = radian;
 	if ( radm == AU_RAD )
 		theta *= ( 180.0/CV_PI );
+		
+	if ( theta < 0.0 )
+		theta += 360.0;
 
 	cv::Mat R = cv::getRotationMatrix2D(
 		cv::Point2f(
